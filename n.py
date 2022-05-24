@@ -11,7 +11,4 @@ for el in news:
 get_news(url)
 for i in range(2,11):
     get_news('https://dtf.ru/'+str(i))
-
-
-
-
+print('hello from lesson')
